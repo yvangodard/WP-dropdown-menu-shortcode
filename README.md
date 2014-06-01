@@ -1,4 +1,4 @@
-Dropdown-Menu-Shortcode
+ v
 ============
 
 Présentation
@@ -36,7 +36,7 @@ Exemple :
 License
 -------
 
-Ce script ldap2vcard.sh de [Yvan GODARD](http://www.yvangodard.me) est mis à disposition selon les termes de la licence Creative Commons 4.0 BY NC SA (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
+Ce plugin Wordpress [WP-dropdown-menu-shortcode](https://github.com/yvangodard/WP-dropdown-menu-shortcode) de [Yvan GODARD](http://www.yvangodard.me) est mis à disposition selon les termes de la licence Creative Commons 4.0 BY NC SA (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
